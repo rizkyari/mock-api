@@ -1,0 +1,101 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wonhae Corn Noodles",
+        "thumbnail": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/101/MTA-178903342/wonhae_wonhae_instant_noodle_ramyun_butter_corn_120_gram_full03_ldmuf60u.jpg",
+        "price": 17000,
+        "stock": 15
+      },
+      {
+        "id": 2,
+        "name": "Indomie Hot & Spicy",
+        "thumbnail": "https://images.finqu.com/d591a304ae093e9e049b8b5ff2222fb8849d88498a7d7cba853b3e7f565a4be5/17034759-20180219-135226-clipped-rev-1.jpeg",
+        "price": 3500,
+        "stock": 50
+      },
+      {
+        "id": 3,
+        "name": "Koka Ramen",
+        "thumbnail": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/6/13/batch-upload/batch-upload_1ea88c2b-e2b4-45fd-8fc2-3caa77a054d3.jpg",
+        "price": 2800,
+        "stock": 30
+      },
+      {
+        "id": 4,
+        "name": "Shin Ramyun - Spicy",
+        "thumbnail": "https://produits.bienmanger.com/45892-0w600h600_Korean_Instant_Noodles_Shin_Ramyun_Spicy_Beef_Broth_Flavour.jpg",
+        "price": 7000,
+        "stock": 34
+      },
+      {
+        "id": 5,
+        "name": "Get Yellow Noodles",
+        "thumbnail": "https://i.pinimg.com/originals/c8/8c/aa/c88caac8edc78fd008f401f97737f3c1.png",
+        "price": 3000,
+        "stock": 25
+      }
+    ],
+    "productDetails": {
+      "1": {
+        "id": 1,
+        "name": "Wonhae Corn Noodles",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/101/MTA-178903342/wonhae_wonhae_instant_noodle_ramyun_butter_corn_120_gram_full03_ldmuf60u.jpg",
+            "https://files.mob-cdn.co.uk/recipes/2024/07/Creamy-Instant-Noodles.jpg"
+        ],
+        "price": 17000,
+        "stock": 15,
+        "description": "Enjoy the buttery and savory taste of Wonhae Corn Noodles. Made with premium corn flavor and a creamy base, this noodle is perfect for satisfying cravings in minutes.",
+        "variants": ["Butter Corn", "Spicy Corn"]
+      },
+      "2": {
+        "id": 2,
+        "name": "Indomie Hot & Spicy",
+        "images": [
+            "https://images.finqu.com/d591a304ae093e9e049b8b5ff2222fb8849d88498a7d7cba853b3e7f565a4be5/17034759-20180219-135226-clipped-rev-1.jpeg",
+            "https://islandsunindonesia.com/wp-content/uploads/2024/01/Desain-tanpa-judul-29.jpg"
+        ],
+        "price": 3500,
+        "stock": 50,
+        "description": "Indomie Hot & Spicy offers a fiery and bold flavor that noodle lovers adore. Quick to prepare, it's a classic choice for those who love heat in every bite.",
+        "variants": ["Hot", "Extra Spicy"]
+      },
+      "3": {
+        "id": 3,
+        "name": "Koka Ramen",
+        "images": [
+            "https://images.tokopedia.net/img/cache/500-square/product-1/2020/6/13/batch-upload/batch-upload_1ea88c2b-e2b4-45fd-8fc2-3caa77a054d3.jpg",
+            "https://www.etfoodvoyage.com/wp-content/uploads/2022/10/rsz_noodles_-_shin_ramen_tantanmen_4.jpg"
+        ],
+        "price": 2800,
+        "stock": 30,
+        "description": "Koka Ramen is a light and savory noodle with authentic flavors that transport you to Japan. Ideal for quick meals with a touch of Asian tradition.",
+        "variants": ["Chicken", "Vegetarian"]
+      },
+      "4": {
+        "id": 4,
+        "name": "Shin Ramyun - Spicy",
+        "images": [
+            "https://produits.bienmanger.com/45892-0w600h600_Korean_Instant_Noodles_Shin_Ramyun_Spicy_Beef_Broth_Flavour.jpg",
+            "https://i.ebayimg.com/images/g/PA4AAOSwFAlivTxA/s-l400.png"
+        ],
+        "price": 7000,
+        "stock": 34,
+        "description": "Shin Ramyun delivers the iconic Korean spice in a hearty and flavorful beef broth. Perfect for a spicy kick and warming comfort food.",
+        "variants": ["Original", "Kimchi Flavor"]
+      },
+      "5": {
+        "id": 4,
+        "name": "Get Yellow Noodles",
+        "images": [
+            "https://i.pinimg.com/originals/c8/8c/aa/c88caac8edc78fd008f401f97737f3c1.png",
+            "https://i0.wp.com/espressoandlime.com/wp-content/uploads/2023/03/Mayo-Ramen-12.jpeg"
+        ],
+        "price": 3000,
+        "stock":25,
+        "description": "Get Yellow Noodles are classic noodles with a smooth and mild flavor, suitable for any type of seasoning or recipe. Easy to cook and delicious.",
+        "variants": ["Plain", "Egg Flavor"]
+      }
+    }
+  }
